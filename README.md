@@ -41,6 +41,7 @@ The proposed solution for the Automatic Fire and Smoke Detection System project 
 
 **Acknowledgments:**
 Special thanks to Prof. Tarik HAJJI for guidance and support throughout the project development process.
+Project ressources can be found inside the project file , in the README section added there.
 
 **Conclusion:**
 In conclusion, the Automatic Fire and Smoke Detection System project is an important initiative to help prevent fires and minimize the damage they cause. Deep learning offers an effective approach for automatic fire detection from images. Ultimately, this project can contribute to public safety and environmental protection by helping to prevent fires and minimize risks to lives and property.
